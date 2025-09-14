@@ -49,7 +49,7 @@ export const articles: Article[] = [
     publishDate: 'Mar 15, 2024',
     category: 'Monitoring',
     tags: ['blood sugar', 'glucose monitoring', 'diabetes management', 'testing'],
-    imageUrl: 'https://images.unsplash.com/photo-1683028627826-a0a669e10d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaWFiZXRlcyUyMGJsb29kJTIwc3VnYXIlMjB0ZXN0aW5nfGVufDF8fHx8MTc1NjgyNjg1M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    imageUrl: './img/photo-1683028627826-a0a669e10d2c.avif',
     readTime: '5 min read'
   },
   {
@@ -116,7 +116,7 @@ export const articles: Article[] = [
     publishDate: 'Mar 12, 2024',
     category: 'Nutrition',
     tags: ['meal planning', 'nutrition', 'diet', 'healthy eating'],
-    imageUrl: 'https://images.unsplash.com/photo-1617957854609-873e56de0d41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwZm9vZCUyMG51dHJpdGlvbiUyMGRpZXR8ZW58MXx8fHwxNzU2ODI2ODU1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    imageUrl: './img/photo-1617957854609-873e56de0d41.avif',
     readTime: '7 min read'
   },
   {
@@ -213,7 +213,7 @@ export const articles: Article[] = [
     publishDate: 'Mar 10, 2024',
     category: 'Exercise',
     tags: ['exercise', 'fitness', 'physical activity', 'workout safety'],
-    imageUrl: 'https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxleGVyY2lzZSUyMGZpdG5lc3MlMjB3ZWxsbmVzc3xlbnwxfHx8fDE3NTY4MjY4NTl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    imageUrl: './img/photo-1599901860904-17e6ed7083a0.avif',
     readTime: '6 min read'
   },
   {
@@ -338,7 +338,7 @@ export const articles: Article[] = [
     publishDate: 'Mar 8, 2024',
     category: 'Healthcare',
     tags: ['healthcare team', 'medical care', 'patient advocacy', 'appointments'],
-    imageUrl: 'https://images.unsplash.com/photo-1631217872822-1c2546d6b864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwY29uc3VsdGF0aW9uJTIwZG9jdG9yfGVufDF8fHx8MTc1NjczODc4NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    imageUrl: './img/photo-1631217872822-1c2546d6b864.avif',
     readTime: '8 min read'
   },
   {
@@ -480,7 +480,7 @@ export const articles: Article[] = [
     publishDate: 'Mar 5, 2024',
     category: 'Education',
     tags: ['type 1 diabetes', 'type 2 diabetes', 'diabetes types', 'education'],
-    imageUrl: 'https://plus.unsplash.com/premium_photo-1715958890454-f635023f9a26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZnJlZSUyMHBob3RvJTIwVHlwZSUyMDElMjB2cyUyMFR5cGUlMjAyJTIwRGlhYmV0ZXMlM0ElMjBVbmRlcnN0YW5kaW5nJTIwdGhlJTIwRGlmZmVyZW5jZXN8ZW58MHx8MHx8fDA%3D',
+    imageUrl: './img/premium_photo-1715958890454-f635023f9a26.avif',
     readTime: '10 min read'
   },
   {
@@ -683,7 +683,7 @@ export const articles: Article[] = [
     publishDate: 'Mar 1, 2024',
     category: 'Prevention',
     tags: ['complications', 'prevention', 'screening', 'long-term health'],
-    imageUrl: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmV2ZW50aXZlJTIwbWVkaWNpbmV8ZW58MXx8fHwxNzU2ODI2ODY3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    imageUrl: './img/photo-1576091160550-2173dba999ef.avif',
     readTime: '12 min read'
   }
 ];

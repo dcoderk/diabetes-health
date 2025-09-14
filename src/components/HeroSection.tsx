@@ -56,7 +56,7 @@ export function HeroSection({ onNavigate }: HeroSectionProps) {
           
           <div className="relative">
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=800&h=600"
+              src="./img/photo-1559757148-5c350d0d3c56.avif"
               alt="Healthcare professional with diabetes management tools"
               className="rounded-lg shadow-2xl w-full h-auto"
             />
